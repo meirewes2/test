@@ -6,11 +6,11 @@ using System.Text;
         public static void Main(string[] args) // public and args[]
         {
             Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.WriteLine("ASOSGIFTCARD CHECKER & GENERATOR");
+            Console.WriteLine("AMAZON GC GENERATOR + CHECKER");
             int i = 0;
-            Console.WriteLine("checking hwid ");
+            Console.WriteLine("Checking hwid ");
             Thread.Sleep(2000);
-            Console.WriteLine("checking update ");
+            Console.WriteLine("Checking for updates ");
             Console.WriteLine(". ");
             Console.WriteLine(". ");
             Console.ReadKey();
